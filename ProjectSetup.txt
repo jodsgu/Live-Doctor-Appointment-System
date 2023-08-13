@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=UHbqnuVuryY&list=PLuHGmgpyHfRw0wBGN8knxsJsMi74r34zw&index=4
+step 1   create package.json - > npm init -y
+step 2    npm i express morgan colors dotenv nodemon jsonwebtoken bcrypt mongoose
+
+
+
+client
+npx create-react-app client
+npm i react-router-dom axios antd
